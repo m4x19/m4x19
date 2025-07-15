@@ -10,4 +10,6 @@
 
 ```bash
 > echo "I'm a hybrid of code and chaos."
+> 🛠 Work in progress
+> a self-taught developer
 > cat /skills.txt
