@@ -4,4 +4,4 @@
 > Reverse engineering binaries and software internals
 > Security research and debugging
 > Building tools, automation, and custom software
-> Quantitative thinking and market analysis
+> Quantitative Trader
