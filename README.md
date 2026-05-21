@@ -1,4 +1,4 @@
-## 🧬 Whoami
+## About
 
 ```bash
 > Reverse engineering binaries and software internals
